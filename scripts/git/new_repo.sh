@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 # -*- coding: utf-8 -*-
-. "./git_init.sh"
-. "./new_editorconfig.sh"
+. "./scripts/git/git_init.sh"
+. "./scripts/new_editorconfig.sh"
 
 function new_repo () {
     echo "INITIALIZING REPO!\n\n"

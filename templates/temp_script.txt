@@ -1,0 +1,1 @@
+#!/usr/bin/env zsh\n# -*- coding: utf-8 -*-\n\n# Does Something\nfunction one(){\n\n\n}\n
